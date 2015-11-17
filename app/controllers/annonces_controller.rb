@@ -1,0 +1,2 @@
+class AnnoncesController < ApplicationController
+end
